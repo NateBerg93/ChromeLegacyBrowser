@@ -1,0 +1,19 @@
+<site-list version="11">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>11.0.0.0</version>
+    <date-created>12/9/2020 10:05:50</date-created>
+  </created-by>
+  <site url="gaports.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>
+  <site url="maherterminals.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>  
+  <site url="trapac.com">
+    <compat-mode>Default</compat-mode>
+    <open-in allow-redirect="true">IE11</open-in>
+  </site>  
+</site-list>
